@@ -1,1 +1,2 @@
-# kill_2
+i# kill
+stash
